@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 -->
 
 ### Profile Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashar933&theme=neon&border_radius=25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Ashar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashar933&count_private=true&show_icons=true&theme=tokyonight&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![GitHub Streak](https://streak-stats.demolab.com?user=ashar933&theme=neon&border_radius=25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Ashar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashar933&count_private=true&show_icons=true&theme=tokyonight&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashar933&hide_progress=false&layout=compact&theme=tokyonight&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 
